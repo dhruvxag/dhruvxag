@@ -4,7 +4,8 @@ Aspiring Business Analyst · MCA Student
 
 
 
-</div>**About Me**
+</div>About Me
+
 I'm Dhruv, an aspiring Business Analyst currently pursuing my Master of Computer Applications (MCA). I’m interested in understanding business challenges, analysing information, and using data to support clear, informed decisions.
 
 I enjoy approaching problems methodically, exploring how different pieces of information connect, and turning what I learn into practical work. I'm building my skills across business analysis, data analytics, and business intelligence, one project at a time.
@@ -34,12 +35,7 @@ The project explores monthly sales trends and revenue-related performance to dev
 Project repository: View the case study
 Contribution Snake
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dhruvxag/dhruvxag/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dhruvxag/dhruvxag/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/dhruvxag/dhruvxag/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>A Little More About Me
+ /div>A Little More About Me
 I value curiosity, structured thinking, and continuous improvement. I like exploring new subjects, looking at problems from different perspectives, and learning by doing. My goal is to keep connecting technical skills with practical business understanding.
 GitHub Activity
 <div align="center"><img height="165" src="https://github-readme-stats.vercel.app/api?username=dhruvxag&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" alt="Dhruv's GitHub statistics"/>
