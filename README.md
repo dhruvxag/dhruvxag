@@ -4,7 +4,7 @@ Aspiring Business Analyst · MCA Student
 
 
 
-</div>About Me
+</div>**About Me**
 I'm Dhruv, an aspiring Business Analyst currently pursuing my Master of Computer Applications (MCA). I’m interested in understanding business challenges, analysing information, and using data to support clear, informed decisions.
 
 I enjoy approaching problems methodically, exploring how different pieces of information connect, and turning what I learn into practical work. I'm building my skills across business analysis, data analytics, and business intelligence, one project at a time.
