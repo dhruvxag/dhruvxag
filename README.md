@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:150016,50:29104A,100:522C5D&height=220&section=header&text=Dhruv%20Agrawal&fontSize=60&fontColor=FFE3DA&fontAlignY=36&desc=Turning%20business%20needs%20into%20meaningful%20solutions&descSize=22&descColor=E3B8B1&descAlignY=60" alt="Dhruv Agrawal banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&weight=700&size=26&pause=1200&color=FFE3DA&background=29104AFF&center=true&vCenter=true&width=760&height=60&lines=Turning+data+into+meaningful+insights;Bridging+business+needs+and+technology;Documenting+requirements+with+clarity+and+purpose;Making+business+communication+clear+and+meaningful" alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&weight=500&size=16&pause=1200&color=E3B8B1&center=true&vCenter=true&width=700&height=30&lines=Turning+data+into+meaningful+insights;Bridging+business+needs+and+technology;Documenting+requirements+with+clarity+and+purpose;Making+business+communication+clear+and+meaningful" alt="Typing intro" />
 
 <br/>
 
@@ -78,18 +78,19 @@ At Suryavanshi Fine Serve, I worked as a Finance Intern and got hands-on exposur
 
 ## ***Education***
 
-```mermaid
-flowchart TD
-    A["Springfield's College · ICSE Board · Class 12 · 2022"] --> B["IFTM University · BCA · 2022 - 2025"]
-    B --> C["AKTU · MCA · 2025 - 2027"]
-    classDef school fill:#845162,stroke:#E3B8B1,stroke-width:2px,color:#FFE3DA
-    classDef bca fill:#522C5D,stroke:#E3B8B1,stroke-width:2px,color:#FFE3DA
-    classDef mca fill:#29104A,stroke:#E3B8B1,stroke-width:2px,color:#FFE3DA
-    class A school
-    class B bca
-    class C mca
-    linkStyle default stroke:#E3B8B1,stroke-width:2px
-```
+<div align="center">
+
+![Springfield's College](https://img.shields.io/badge/Springfield%27s%20College-%282022%29-29104A?style=for-the-badge&labelColor=845162)
+
+↓
+
+![IFTM University](https://img.shields.io/badge/IFTM%20University-%282022%20to%202025%29-150016?style=for-the-badge&labelColor=522C5D)
+
+↓
+
+![AKTU](https://img.shields.io/badge/AKTU-%282025%20to%202027%29-845162?style=for-the-badge&labelColor=29104A)
+
+</div>
 
 <details open>
 <summary><b>Master of Computer Applications (MCA) — Dr. A.P.J. Abdul Kalam Technical University (AKTU)</b></summary>
