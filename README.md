@@ -1,8 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Dhruv%20Agrawal&fontSize=52&fontAlignY=38&desc=Aspiring%20Business%20Analyst&descAlignY=58&animation=fadeIn" alt="Dhruv Agrawal banner" />
+<h1 align="center">Dhruv Agrawal</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=8AB4F8&center=true&vCenter=true&width=650&lines=Turning+data+into+meaningful+insights;Exploring+business+problems+with+Power+BI+%26+Excel;Learning+SQL+and+Confluence;MCA+Student+%7C+Aspiring+Business+Analyst" alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&weight=600&size=22&pause=1000&color=6E7681&center=true&vCenter=true&width=650&lines=Aspiring+Business+Analyst;MCA+Student;Turning+data+into+meaningful+insights;Exploring+business+problems+with+Power+BI+%26+Excel" alt="Typing intro" />
+
+<br/>
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agrawaldhruv6523@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruv-agarwal-999396287/)
 
 <br/>
 
@@ -20,9 +25,8 @@
 
 I'm Dhruv, an aspiring Business Analyst currently pursuing my Master of Computer Applications. I enjoy analysing information and using data to support clear, informed decisions. I like approaching problems methodically, exploring how different pieces of information connect, and turning what I learn into practical work.
 
-- 🔎 **Interests:** Business analysis, data analytics, business intelligence, problem-solving
-- 🌱 **Currently learning:** SQL and Confluence
-- 📌 **Focus:** Strengthening my analytical, technical, and documentation skills through practical projects
+- **Interests:** Business analysis, data analytics, business intelligence, and problem-solving
+- **Focus:** Strengthening my analytical, technical, and documentation skills through practical projects
 
 ---
 
@@ -32,17 +36,7 @@ I'm Dhruv, an aspiring Business Analyst currently pursuing my Master of Computer
 |------|-------|
 | **Analytics and BI** | Power BI · DAX · Microsoft Excel · SQL |
 | **Documentation and Planning** | Confluence · Jira |
-| **Programming** | Python |
 | **Version Control** | Git · GitHub |
-
-```mermaid
-pie showData title Where my learning time goes
-    "Power BI & DAX" : 30
-    "SQL" : 25
-    "Excel" : 20
-    "Confluence & Jira" : 15
-    "Python" : 10
-```
 
 ---
 
@@ -57,50 +51,41 @@ timeline
 ```
 
 <details open>
-<summary><b>🎓 MCA — Dr. A.P.J. Abdul Kalam Technical University (AKTU)</b></summary>
+<summary><b>Master of Computer Applications (MCA) — Dr. A.P.J. Abdul Kalam Technical University (AKTU)</b></summary>
 
 <br/>
 
 **Period:** 2025 – 2027 (currently in semester 3)
 
-**Skills learned:**
-- Python programming
-- Database management and SQL
-- Data analysis and business intelligence
-- Software engineering and project documentation
-- Machine learning fundamentals
+During my MCA, I am building a stronger foundation in programming, databases, and software engineering. I am learning how data is stored, queried, and analysed, and how real software projects are planned and documented. This course is helping me connect technical knowledge with practical business problems, which is the direction I want my career to take.
+
+**Skills:** Python · Database Management and SQL · Data Analysis · Business Intelligence · Software Engineering · Project Documentation · Machine Learning Fundamentals
 
 </details>
 
-<details>
-<summary><b>🎓 BCA — IFTM University</b></summary>
+<details open>
+<summary><b>Bachelor of Computer Applications (BCA) — IFTM University</b></summary>
 
 <br/>
 
 **Period:** 2022 – 2025
 
-**Skills learned:**
-- Programming fundamentals (C, C++, Java)
-- Web development basics (HTML, CSS)
-- Database concepts and SQL basics
-- Operating systems and computer networks
-- Microsoft Excel and office tools
+My BCA gave me the basics of computer science. I learned programming fundamentals, how databases and operating systems work, and how to build simple web pages. I also became comfortable with everyday office tools, especially Microsoft Excel, which later led me towards data analysis.
+
+**Skills:** C · C++ · Java · HTML and CSS · Database Concepts · Operating Systems · Computer Networks · Microsoft Excel
 
 </details>
 
-<details>
-<summary><b>🏫 Springfield's College — ICSE Board</b></summary>
+<details open>
+<summary><b>Springfield's College — ICSE Board</b></summary>
 
 <br/>
 
 **Period:** Passed Class 12 in 2022
 
-**Skills learned:**
-- Computer applications and basic programming logic
-- Mathematics and analytical thinking
-- English communication and presentation
-- Time management and discipline
-- Teamwork and problem-solving
+School built the base for everything that came after. Along with academics, I developed analytical thinking through mathematics, clear communication through English, and basic programming logic through computer studies. It also taught me discipline, time management, and how to work well in a team.
+
+**Skills:** Computer Applications · Mathematics · Analytical Thinking · English Communication · Time Management · Teamwork
 
 </details>
 
@@ -110,21 +95,12 @@ timeline
 
 A business case study analysing the annual sales performance of gold, diamond, and platinum products at Madhumati Jewelers. The project explores monthly sales trends and revenue-related performance to develop a clearer understanding of the business through data.
 
-[![View Project](https://img.shields.io/badge/View%20the%20Case%20Study-8AB4F8?style=for-the-badge&logo=github&logoColor=black)](https://github.com/dhruvxag/madhumati-business-case-study)
+[![View Project](https://img.shields.io/badge/View%20the%20Case%20Study-555555?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dhruvxag/madhumati-business-case-study)
 
 ---
 
-## ***Contact***
-
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agrawaldhruv6523@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruv-agarwal-999396287/)
-
-**agrawaldhruv6523@gmail.com**
-
 Thanks for stopping by. Feel free to explore my repositories or connect with me.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="footer" />
 
 </div>
