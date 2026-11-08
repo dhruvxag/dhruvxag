@@ -12,9 +12,8 @@ I'm Dhruv, an aspiring Business Analyst currently pursuing my Master of Computer
 
 ## ***Education***
 
-- **MCA:** Dr. A.P.J. Abdul Kalam Technical University (AKTU), currently in semester 3
-- **BCA:** IFTM University
-
+- **MCA:** Dr. A.P.J. Abdul Kalam Technical University (2025 - 2027)
+- **BCA:** IFTM University (2022 - 2025)
 ---
 
 ## ***Focus and Interests***
